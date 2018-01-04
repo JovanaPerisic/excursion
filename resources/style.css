@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+}
+.underline {
+  color: Aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+p {
+  font-family: Verdana;
+  font-size: 22px;
+  color: gray;
+}
+.copyright {
+  text-align: right;
+  color: gray;
+}
